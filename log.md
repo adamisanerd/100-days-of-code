@@ -8,6 +8,8 @@
 2.) Manipulate the website using Javascript in conjunction with HTML and CSS.
 3.) Maintain the website under reasonable circumstances.
 
+Also came up with app ideas to use to code a website.
+
 **Thoughts:** HTML and CSS may have the largest learning curve seeing as how I already know bits of Python and JS. I stopped coding sites before HTML 5 was released and I never picked it back up until now.
 
 **App Ideas:** 
